@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Out_Variables_03", "01-O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Out_Variables_04", "01-Out_Variables_04\01-Out_Variables_04.csproj", "{A23ABC7D-330D-41E4-B622-7D95C1C19FCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Pattern_Matching_01", "02-Pattern_Matching_01\02-Pattern_Matching_01.csproj", "{A325A45E-07AC-4075-83F2-A1AA3F99E00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Pattern_Matching_02", "02-Pattern_Matching_02\02-Pattern_Matching_02.csproj", "{F24B5419-858D-42D5-B584-95B1EF8E94B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A23ABC7D-330D-41E4-B622-7D95C1C19FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A23ABC7D-330D-41E4-B622-7D95C1C19FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A23ABC7D-330D-41E4-B622-7D95C1C19FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A325A45E-07AC-4075-83F2-A1AA3F99E00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A325A45E-07AC-4075-83F2-A1AA3F99E00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A325A45E-07AC-4075-83F2-A1AA3F99E00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A325A45E-07AC-4075-83F2-A1AA3F99E00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24B5419-858D-42D5-B584-95B1EF8E94B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24B5419-858D-42D5-B584-95B1EF8E94B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24B5419-858D-42D5-B584-95B1EF8E94B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24B5419-858D-42D5-B584-95B1EF8E94B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
