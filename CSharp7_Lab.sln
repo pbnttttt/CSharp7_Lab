@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Literal_01", "06-Literal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Ref_return_And_Locals_01", "07-Ref_return_And_Locals_01\07-Ref_return_And_Locals_01.csproj", "{3D295E08-94A2-4E2E-BCFD-2668AB74C364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Generalized_async_return_types_01", "08_Generalized_async_return_types_01\08_Generalized_async_return_types_01.csproj", "{F307523B-754B-418C-8A77-E8C7D429F3A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3D295E08-94A2-4E2E-BCFD-2668AB74C364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D295E08-94A2-4E2E-BCFD-2668AB74C364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D295E08-94A2-4E2E-BCFD-2668AB74C364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F307523B-754B-418C-8A77-E8C7D429F3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F307523B-754B-418C-8A77-E8C7D429F3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F307523B-754B-418C-8A77-E8C7D429F3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F307523B-754B-418C-8A77-E8C7D429F3A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
