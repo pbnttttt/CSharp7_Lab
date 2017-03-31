@@ -11,6 +11,11 @@
  * 
  * ref local:
  * ref 型別 = ref 方法名(參數);
+ * 
+ * 
+ * 限制：
+ * 確保安全，你只可以安全回傳，意思是 ref return 的東西是 pass 進來的物件裡面的東西，例如只能回傳 array 裡面的元素;
+ * ref local 所參數的位置無法更改
  */
 namespace _07_Ref_return_And_Locals_01
 {
