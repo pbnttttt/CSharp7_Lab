@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Generalized_async_return
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-More expression bodied members_01", "09-More expression bodied members_01\09-More expression bodied members_01.csproj", "{9E1B3C92-5EF2-4B6F-BCCF-00D2D17824A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Throw expressions_01", "10-Throw expressions_01\10-Throw expressions_01.csproj", "{17F02800-962D-4C93-96D8-DAB1E83CBEC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{9E1B3C92-5EF2-4B6F-BCCF-00D2D17824A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E1B3C92-5EF2-4B6F-BCCF-00D2D17824A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E1B3C92-5EF2-4B6F-BCCF-00D2D17824A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F02800-962D-4C93-96D8-DAB1E83CBEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F02800-962D-4C93-96D8-DAB1E83CBEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F02800-962D-4C93-96D8-DAB1E83CBEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F02800-962D-4C93-96D8-DAB1E83CBEC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
